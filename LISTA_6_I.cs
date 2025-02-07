@@ -5,7 +5,6 @@ namespace fire
 {	
 	class Program
 	{
-
 		public static void Main()
 		{	
 			
