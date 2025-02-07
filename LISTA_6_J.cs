@@ -8,7 +8,6 @@ namespace fire
 
 		public static void Main()
 		{	
-			
 			Console.Write("Escolha o tamanho da camiseta (P, M, G): ");
 			string tamanhos = Console.ReadLine();
 			string tamanhoscorrigidos = tamanhos.ToUpper();
